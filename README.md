@@ -68,6 +68,8 @@ http://localhost:8000
 	•	Uses streaming to avoid high memory usage.
 	•	Responds in under 15 seconds for large files on standard hardware.
 
+---
+
 
 ## Example Use Case
 
@@ -77,6 +79,8 @@ This API can be used for:
 	•	Filtering valid Indian mobile numbers
 	•	Preparing marketing or SMS campaign data
 
+---
+
 
 ## Author
 
@@ -84,6 +88,9 @@ Project: Phone Number Processing API (Python Standard Library)
 Repository: phone-number-processing-api-python
 Developed by: Manisha Mitra
 Year: 2025
+
+
+---
 
 
 ## License
